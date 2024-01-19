@@ -1,5 +1,14 @@
-# Express.js/MongoDB Azure sample app
+# Introduction 
+This project is the sandbox where I will learn the Cypress test framework on a Node.JS application
 
-Sample application to demonstrate how to deploy an Node.js (Express.js) app using MongoDB to Azure.  
+# To-Do
+1.  Grab sample Node.JS application and add it to the repo
+2.  Create the folder structure for the e2e (end-to-end) tests and suites
+3.  Configure pipelines for Build & Release
 
-This repository is the sample code for the article [https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app](https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app).  The article covers how to create the appropriate resources and deploy your applciation to Azure.
+
+
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
